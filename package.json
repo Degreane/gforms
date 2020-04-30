@@ -1,0 +1,23 @@
+{
+  "name": "gforms",
+  "version": "1.0.0",
+  "description": "GForms WorkAround to Create Certain Obligations we face at GiaCom ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Degreane/gforms.git"
+  },
+  "keywords": [
+    "WebForms",
+    "ValidationForms"
+  ],
+  "author": "Faysal Al-Banna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Degreane/gforms/issues"
+  },
+  "homepage": "https://github.com/Degreane/gforms#readme"
+}
