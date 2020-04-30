@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/Degreane/gforms#readme",
   "dependencies": {
+    "htmldom": "^4.0.11",
+    "jsdom": "^16.2.2",
     "mongoose": "^5.9.10"
   }
 }
