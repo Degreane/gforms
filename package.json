@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Degreane/gforms/issues"
   },
-  "homepage": "https://github.com/Degreane/gforms#readme"
+  "homepage": "https://github.com/Degreane/gforms#readme",
+  "dependencies": {
+    "mongoose": "^5.9.10"
+  }
 }
